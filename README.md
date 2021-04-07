@@ -5,6 +5,13 @@ This repository holds my programming projects done during my stanCode SC001 and 
 Watch my *[DEMO VIDEOS](https://drive.google.com/drive/folders/1mJwC8GUMd31ET7SWcWaRfGcHXcV8H61g?usp=sharing)*
 
 ## Project Source Codes:
-* [Hangman Game](https://drive.google.com/drive/u/0/folders/1mJwC8GUMd31ET7SWcWaRfGcHXcV8H61g)
- * Python semantics & syntax
-* [Weather Master]() 
+* [Hangman Game]()
+  * Python semantics & syntax
+* [Weather Master]()
+  * Python semantics & syntax
+* [Pedestrian-removing application]()
+  * Image processing
+* [My_drawing]()
+* [Breakout Game]()
+  * 
+ 
