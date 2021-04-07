@@ -11,7 +11,7 @@ Watch my *[DEMO VIDEOS](https://drive.google.com/drive/folders/1mJwC8GUMd31ET7SW
   * Python semantics & syntax
 * [Pedestrian-removing application](https://github.com/kenhuang1204/stanCode_projects/blob/main/stanCode_projects/pedestrian_removing_application/stanCodoshop.py)
   * Image processing
-* [My_drawing](https://github.com/kenhuang1204/stanCode_projects/blob/main/stanCode_projects/my_drawing/my_drawing.py)
+* [My Drawing](https://github.com/kenhuang1204/stanCode_projects/blob/main/stanCode_projects/my_drawing/my_drawing.py)
   * Object & Class
 * [Breakout Game](https://github.com/kenhuang1204/stanCode_projects/blob/main/stanCode_projects/breakout_game/breakout.py)
   * Animation & game designing
