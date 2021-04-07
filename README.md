@@ -12,8 +12,15 @@ Watch my *[DEMO VIDEOS](https://drive.google.com/drive/folders/1mJwC8GUMd31ET7SW
 * [Pedestrian-removing application]()
   * Image processing
 * [My_drawing]()
+  * Object & Class
 * [Breakout Game]()
   * Animation & game designing
-* []
+* [Name-searching System]()
+  * Data structure
+* [Boggle Game Solver]()
+  * Recursive functions
+
+
+
 
  
